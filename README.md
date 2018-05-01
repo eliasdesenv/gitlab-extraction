@@ -1,4 +1,6 @@
-# Devops Analytics
+# Gitlab Analytics
 
-This code gets all projects and commits from Gitlab and index in Elasticsearch for posterior queries.
+This code gets all projects and commits of a group from Gitlab and index in Elasticsearch for posterior queries.
 The data also can be shown on Kibana using graphs.
+
+The idea is collect metrics from development team.
