@@ -6,7 +6,7 @@ with open('requirements.txt') as fp:
 
 setup(
       name='gitlab-extraction',
-      version='1.0',
+      version='0.1.0',
       description='Gitlab Extraction for get metrics from development team',
       author='Elias Costa',
       author_email='elias.desenv@gmail.com',
