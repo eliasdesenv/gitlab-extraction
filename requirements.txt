@@ -1,5 +1,5 @@
 elasticsearch==6.2.0
-urllib3==1.22
+urllib3==1.26.5
 chardet==3.0.4
 certifi==2018.1.18
 cffi==1.11.5
@@ -16,7 +16,7 @@ PyNaCl==1.2.1
 requests==2.18.4
 scp==0.10.2
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
 bcrypt==3.1.4
 asn1crypto==0.24.0
